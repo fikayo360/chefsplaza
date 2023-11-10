@@ -1,20 +1,20 @@
 const Hero = () => {
     return (
-        <div className="w-screen h-screen bg-cover bg-center bg-no-repeat bg-[url(./img/hgbL.jpg)] flex flex-col items-center" >
+        <div className="w-screen h-screen bg-cover bg-center bg-no-repeat bg-[url(./hgbL.jpg)] flex flex-col items-center" >
             
             <div className="w-3/4 h-[8%] flex justify-center md:justify-end items-center pr-5 "> 
 
                 <div className="flex items-center ">
                     <h1 className="text-white mr-4 font-mont">our socials </h1>
-                    <div className="w-[2rem] h-[2rem] rounded-full border-solid border-2 border-white flex justify-center items-center mr-4"><img className="w-[1.1rem] h-[1.1rem]" src={'./img/twitter.png'}/></div>
-                    <div className="w-[2rem] h-[2rem] rounded-full border-solid border-2 border-white flex justify-center items-center"><img className="w-[1.1rem] h-[1.1rem]" src={'./img/facebook.png'}/></div>
+                    <div className="w-[2rem] h-[2rem] rounded-full border-solid border-2 border-white flex justify-center items-center mr-4"><img className="w-[1.1rem] h-[1.1rem]" src={'./twitter.png'}/></div>
+                    <div className="w-[2rem] h-[2rem] rounded-full border-solid border-2 border-white flex justify-center items-center"><img className="w-[1.1rem] h-[1.1rem]" src={'./facebook.png'}/></div>
                 </div>
 
             </div>
 
              <main className="w-full h-[92%] flex flex-col items-center py-10 md:py-20"> 
                 <div className="flex items-center flex-col h-[25%] mb-5 md:mb-10">
-                <img src={'./img/chef.png'} className="w-[5rem] h-[5rem] mb-5"/>
+                <img src={'./chef.png'} className="w-[5rem] h-[5rem] mb-5"/>
                 <h1 className="text-4xl text-white font-bold font-pop">ChefPlaza</h1>
                 </div>
                

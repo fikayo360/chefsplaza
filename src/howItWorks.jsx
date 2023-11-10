@@ -12,7 +12,7 @@ const HowItWorks = () => {
                 <div className="w-[95%] h-[60%] md:h-[70%] items-center flex flex-col md:flex-row md:justify-between mb-10">
 
                 <div className="flex flex-col w-[90%] md:w-[30%] h-[90%] items-center pt-10">
-                    <img src={'./img/activity.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
+                    <img src={'./activity.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
                     <h1 className="text-white mb-10 text-1xl font-bold uppercase font-mont">activity</h1>
                     <p className=" text-1xl text-center w-[80%] md:text-1xl text-white font-mont">Embark on an exciting journey of wellness and care with our comprehensive food menus.
                      From african to mexican and many more.
@@ -21,7 +21,7 @@ const HowItWorks = () => {
 
                 
                 <div className="flex flex-col w-[90%] md:w-[30%] h-[90%]  items-center pt-10">
-                    <img src={'./img/search.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
+                    <img src={'./search.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
                     <h1 className="text-white mb-10 text-1xl font-bold uppercase font-mont">search chef</h1>
                     <p className=" text-1xl text-center w-[80%] md:text-1xl text-white font-mont">Effortlessly navigate through our extensive offerings with the intuitive Search feature. Finding the perfect activity or service has never been smoother. Simply enter your preferences, 
                     from location to specific services.
@@ -30,7 +30,7 @@ const HowItWorks = () => {
 
                 
                 <div className="flex flex-col w-[90%] md:w-[30%] h-[90%]  items-center pt-10">
-                    <img src={'./img/appointment.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
+                    <img src={'./appointment.png'} className="w-[2rem] h-[2rem] md:w-[4rem] md:h-[4rem] mb-10"/>
                     <h1 className="text-white mb-10 text-1xl font-bold uppercase font-mont">book appointment</h1>
                     <p className=" text-1xl text-center w-[80%] md:text-1xl text-white font-mont">Booking appointments is a breeze with our user-friendly platform. Once you've found the activity or service that resonates with you, take the next step by seamlessly scheduling your appointment. 
                    </p>
