@@ -1,6 +1,6 @@
 const Hero = () => {
     return (
-        <div className="w-screen h-screen bg-cover bg-center bg-no-repeat bg-[url(./hgbL.jpg)] flex flex-col items-center" >
+        <div className="w-screen h-screen bg-cover bg-center bg-no-repeat flex flex-col items-center" style={{backgroundImage:'url(./hgbL.jpg)'}}>
             
             <div className="w-3/4 h-[8%] flex justify-center md:justify-end items-center pr-5 "> 
 

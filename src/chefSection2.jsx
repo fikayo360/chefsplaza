@@ -11,7 +11,7 @@ const Section2 = () => {
                 <span className="text-1xl font-mont"> make an order </span>
             </div>
 
-            <div className="lg:w-1/2 w-full h-full bg-[url(./chinese.jpg)] bg-cover bg-center bg-no-repeat"></div>
+            <div className="lg:w-1/2 w-full h-full bg-cover bg-center bg-no-repeat" style={{backgroundImage:'url(./chinese.jpg)'}}></div>
         </div>
     )
 }

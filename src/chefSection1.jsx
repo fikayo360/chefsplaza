@@ -2,7 +2,7 @@ const Section1 = () => {
     return (
         <div className="w-screen h-screen flex flex-col lg:flex-row">
 
-            <div className="lg:w-1/2 w-full h-full bg-[url(./mexican.jpg)] bg-cover bg-center bg-no-repeat"></div>
+            <div className="lg:w-1/2 w-full h-full bg-cover bg-center bg-no-repeat" style={{backgroundImage:'url(./mexican.jpg)'}}></div>
 
             <div className="lg:w-1/2 w-full h-full flex flex-col items-center pt-20 justify-center">
                 <h1 className="text-3xl mb-10 font-bold uppercase font-pop">mexican cusiness </h1>
