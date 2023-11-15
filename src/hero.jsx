@@ -21,7 +21,7 @@ const Hero = () => {
 
                 <div className=" h-[80%] md:h-[60%] w-[80%] md:w-[65%] flex flex-col items-center">
                 <h1 className="text-3xl text-center w-[86%] md:text-5xl text-white font-bold uppercase mb-10 md:mb-16 font-pop">the future of fine dining</h1>
-                <p className="text-[1.4rem] font-bold leading-7 text-white w-[95%] md:w-[80%] text-center mb-6 md:mb-16 font-mont">We bring you a symphony of flavors crafted with
+                <p className="text-[1.2rem] font-bold leading-7 text-white w-[95%] md:w-[80%] text-center mb-6 md:mb-16 font-mont">We bring you a symphony of flavors crafted with
                  passion and precision. 
                 From mouthwatering appetizers to delectable main courses and divine desserts, our menu is a celebration of 
                 </p>
