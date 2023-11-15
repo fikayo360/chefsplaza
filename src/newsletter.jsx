@@ -1,6 +1,6 @@
 const NewsLetter = () => {
     return (
-        <div className="w-screen h-[80vh] md:h-[60vh] pt-20 md:pt-10 flex flex-col items-center bg-black md:justify-center ">
+        <div className="w-screen h-[80vh] md:h-[60vh] pt-20 md:pt-10 flex flex-col items-center bg-black md:justify-center overflow-scroll">
             <h1 className="text-[1.4rem] md:text-3xl font-bold uppercase mb-40 md:mb-10 text-white font-pop">subscribe to our newsLetter </h1>
             <p className="w-[80%] md:w-[85%] text-1xl md:text-2xl mb-[6%] md:mb-10 text-white text-center leading-6 font-mont">subscribe to our newsletter to get latest information when they drop</p>
             <form className="w-full flex flex-col items-center">

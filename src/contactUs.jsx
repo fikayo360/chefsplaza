@@ -1,6 +1,6 @@
 const ContactUs = () => {
     return (
-        <div className="w-screen h-screen flex flex-col items-center pt-20">
+        <div className="w-screen h-screen flex flex-col items-center pt-20 overflow-scroll">
             <h1 className="text-3xl font-bold mb-10 font-pop">Contact us </h1>
             <h1 className="text-2xl mb-5 font-mont"> To busy to e-mail </h1>
             <h2 className="text-2xl mb-10 font-mont">call us on <span className="text-2xl"> 0914 552 1243 </span></h2>
