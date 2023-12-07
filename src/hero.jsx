@@ -28,7 +28,7 @@ const Hero = () => {
                 <button className="w-[75%] md:w-[40%] h-[4rem] md:h-[4rem] border-solid rounded-lg text-white text-1xl font-bold bg-black font-pop"> Request a chef </button>
                 </div>
 
-             </main>
+             </main>     
         </div> 
     )
 }
